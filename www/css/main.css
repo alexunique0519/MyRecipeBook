@@ -18,3 +18,8 @@ input[type*="email"],
 textarea {
     width: 100%;
 }
+
+
+#buynow{
+    margin-left:1em;
+}
